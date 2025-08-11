@@ -4,7 +4,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-brightgreen)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)](https://www.mongodb.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple)](https://getbootstrap.com/)
-//[![Render Deployment](https://img.shields.io/badge/Deployed%20on-Render-blue)](https://render.com/)
+
 
 ## 📌 Overview
 The **Farm to Fabric Wool Monitoring App** is an integrated mobile and web-based solution designed to bring transparency, quality control, and market access to the **Indian wool sector**.  
