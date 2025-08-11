@@ -34,5 +34,5 @@ This app empowers **wool producers, traders, and buyers** by:
 
 ---
 
-> 📂 **Repository:** This is the official codebase for the *Farm to Fabric Wool Monitoring App*, winner of the **Smart India Hackathon 2023** in its domain.
+> 📂 **Repository:** This is the official codebase for the *Farm to Fabric Wool Monitoring App*
 
