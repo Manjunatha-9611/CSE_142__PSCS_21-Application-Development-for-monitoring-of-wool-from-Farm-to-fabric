@@ -1,0 +1,2 @@
+# -CSE_142-PSCS_21-Application-Development-for-monitoring-of-wool-from-Farm-to-fabric
+Farm to Fabric Wool Monitoring Application The Farm to Fabric Wool Monitoring App is an integrated mobile and web-based solution designed to modernize and digitize the wool industry in India. It enables end-to-end traceability of wool from farms to final fabric, ensuring transparency, quality assurance, and better market access for all stakeholders
