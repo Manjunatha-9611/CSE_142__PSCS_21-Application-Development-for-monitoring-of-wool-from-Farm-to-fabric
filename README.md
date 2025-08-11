@@ -23,7 +23,6 @@ This application enables **end-to-end monitoring** of wool — from farm product
 - **Frontend:** EJS, CSS, SASS, Bootstrap
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Deployment:** Render
 
 ## 🚀 Impact
 This app empowers **wool producers, traders, and buyers** by:
