@@ -1,0 +1,24 @@
+{
+  "rules": {
+    ".read": true,
+    ".write": true,
+    "processing-records": {
+      ".indexOn": ["userId"]
+    },
+    "tracking": {
+      ".indexOn": ["batchId", "timestamp"]
+    },
+    "quality": {
+      ".indexOn": ["batchId", "timestamp"]
+    },
+    "certificates": {
+      ".indexOn": ["batchId", "issuedAt"]
+    },
+    "orders": {
+      ".indexOn": ["buyerId", "sellerId", "createdAt"]
+    },
+    "batches": {
+      ".indexOn": ["farmerId", "isListed", "createdAt"]
+    }
+  }
+}
